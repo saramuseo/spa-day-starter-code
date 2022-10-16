@@ -1,4 +1,4 @@
-package org.launchcode.spaday.models;
+package org.launchcode.spaday.controllers.models;
 
 import java.util.ArrayList;
 
